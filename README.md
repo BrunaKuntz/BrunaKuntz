@@ -16,7 +16,7 @@
 [<img alt="Hotmail" height="26px" src="https://img.shields.io/badge/-Hotmail-c14438?style=flat&labelColor=c14438&logo=Gmail&logoColor=white&link=mailto:brunak.mathias@hotmail.com" />](mailto:brunak.mathias@hotmail.com)
 
 ## Status &nbsp;📈 ##
-<img align = "center" alt = "Bruna's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=BrunaKuntz&count_private=true&show_icons=true&hide_border=true&title_color=FFF&icon_color=FFF&bg_color=00000000&text_color=fff" />
+<img align = "center" alt = "Bruna's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=BrunaKuntz&count_private=true&show_icons=true&hide_border=true&title_color=449DD1&icon_color=449DD1&bg_color=00000000&text_color=449DD1" />
 
 ## Courses &nbsp;🚀 ##
 
