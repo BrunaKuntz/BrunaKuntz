@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻&nbsp; I'm currently working at [Globo][intership]!
 -    📍&nbsp; I create [instagram filters][website].
-- ✍🏻&nbsp; I'm studying Data Science at [Awari][awari].
+- ✍🏻&nbsp; I'm studying Data Science at [Let's Code][LetsCode].
 - 📚&nbsp; I'm always studying and working in something new.
 - 💜&nbsp; If I can help you with anything, let me know.
 - 🌎&nbsp; **Curiosity:** I speak portuguese, english, spanish and italian.
@@ -42,3 +42,4 @@
 [CertificadoDSA]: https://drive.google.com/file/d/1VosmgWdL7Pf4-yFI--2JSxKyGJAkYZx1/view?usp=sharing
 [FGV]: https://portal.fgv.br/en
 [cursofgv]: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/metodos-ageis
+[LetsCode]: https://letscode.com.br/degree/ds
